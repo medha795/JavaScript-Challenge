@@ -1,7 +1,7 @@
 # JavaScript & DOM Manipulation
 
 <b>Deployment Link</b>
-
+https://medha795.github.io/JavaScript-Challenge/
 
 <b>Challenge Instructions:</b>
 
